@@ -6,6 +6,6 @@ _**Click on the Watch button in the top so that you get announcement notfication
 
 ## Have a question?
 
-Open an issue, and tag your classmates using @classmates. Tag me and @danielappierto too. 
+Open an issue, and tag your classmates using @classmates. This will tag me and the TA as well. 
         
         
