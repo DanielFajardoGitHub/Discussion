@@ -4,4 +4,8 @@ If you have problems, issues, or have any questions during the semester, create 
 
 _**Click on the Watch button in the top so that you get announcement notfications and see issue discussions automatically.**_
 
-        fake text
+## Have a question?
+
+Open an issue, and tag your classmates using @classmates. Tag me and @danielappierto too. 
+        
+        
